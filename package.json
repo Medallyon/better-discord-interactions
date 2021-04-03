@@ -10,5 +10,13 @@
   "license": "ISC",
   "dependencies": {
     "snowflake-util": "^1.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Medallyon/better-discord-interactions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Medallyon/better-discord-interactions/issues"
+  },
+  "homepage": "https://github.com/Medallyon/better-discord-interactions#readme"
 }
